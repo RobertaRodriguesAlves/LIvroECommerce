@@ -1,0 +1,10 @@
+C:\Users\RobertaSuellenRodrig\Desktop\LivrosECommerce\LivrosECommerce\bin\Debug\netcoreapp2.0\LivrosECommerce.deps.json
+C:\Users\RobertaSuellenRodrig\Desktop\LivrosECommerce\LivrosECommerce\bin\Debug\netcoreapp2.0\LivrosECommerce.runtimeconfig.json
+C:\Users\RobertaSuellenRodrig\Desktop\LivrosECommerce\LivrosECommerce\bin\Debug\netcoreapp2.0\LivrosECommerce.runtimeconfig.dev.json
+C:\Users\RobertaSuellenRodrig\Desktop\LivrosECommerce\LivrosECommerce\bin\Debug\netcoreapp2.0\LivrosECommerce.dll
+C:\Users\RobertaSuellenRodrig\Desktop\LivrosECommerce\LivrosECommerce\bin\Debug\netcoreapp2.0\LivrosECommerce.pdb
+C:\Users\RobertaSuellenRodrig\Desktop\LivrosECommerce\LivrosECommerce\obj\Debug\netcoreapp2.0\LivrosECommerce.csproj.CoreCompileInputs.cache
+C:\Users\RobertaSuellenRodrig\Desktop\LivrosECommerce\LivrosECommerce\obj\Debug\netcoreapp2.0\LivrosECommerce.AssemblyInfoInputs.cache
+C:\Users\RobertaSuellenRodrig\Desktop\LivrosECommerce\LivrosECommerce\obj\Debug\netcoreapp2.0\LivrosECommerce.AssemblyInfo.cs
+C:\Users\RobertaSuellenRodrig\Desktop\LivrosECommerce\LivrosECommerce\obj\Debug\netcoreapp2.0\LivrosECommerce.dll
+C:\Users\RobertaSuellenRodrig\Desktop\LivrosECommerce\LivrosECommerce\obj\Debug\netcoreapp2.0\LivrosECommerce.pdb

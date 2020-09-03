@@ -1,0 +1,143 @@
+[
+  {
+    "Codigo": "001",
+    "Nome": "O Senhor dos Aneis: A Sociedade do Anel",
+    "Preco": 40.00
+  },
+  {
+    "Codigo": "002",
+    "Nome": "O Senhor dos Aneis: As Duas Torres",
+    "Preco": 54.90
+  },
+  {
+    "Codigo": "003",
+    "Nome": "O Senhor dos Aneis: O Retorno do Rei",
+    "Preco": 129.90
+  },
+  {
+    "Codigo": "004",
+    "Nome": "Harry Potter e a Pedra Filosofal",
+    "Preco": 29.18
+  },
+  {
+    "Codigo": "005",
+    "Nome": "Harry Potter e a Camara Secreta",
+    "Preco": 24.64
+  },
+  {
+    "Codigo": "006",
+    "Nome": "Harry Potter e o Prisioneiro de Azkaban",
+    "Preco": 34.99
+  },
+  {
+    "Codigo": "007",
+    "Nome": "Harry Potter e o Calice de Fogo",
+    "Preco": 28.50
+  },
+  {
+    "Codigo": "008",
+    "Nome": "Harry Potter e a Ordem da Fenix",
+    "Preco": 34.99
+  },
+  {
+    "Codigo": "009",
+    "Nome": "Harry Potter e o Enigma do Principe",
+    "Preco": 40.06
+  },
+  {
+    "Codigo": "010",
+    "Nome": "Harry Potter e as Reliquias da Morte",
+    "Preco": 44.63
+  },
+  {
+    "Codigo": "011",
+    "Nome": "O Guia do Mochileiro das Galaxias",
+    "Preco": 23.89
+  },
+  {
+    "Codigo": "012",
+    "Nome": "O Restaurante no Fim do Universo",
+    "Preco": 23.22
+  },
+  {
+    "Codigo": "013",
+    "Nome": "A Vida, o Universo e Tudo Mais",
+    "Preco": 17.60
+  },
+  {
+    "Codigo": "014",
+    "Nome": "Ate Mais, e Obrgado Pelos Peixes",
+    "Preco": 25.83
+  },
+  {
+    "Codigo": "015",
+    "Nome": "Homo Deus: Uma Breve História do Amanhã",
+    "Preco": 43.70
+  },
+  {
+    "Codigo": "016",
+    "Nome": "Deuses Americanos",
+    "Preco": 34.30
+  },
+  {
+    "Codigo": "017",
+    "Nome": "Lugar Nenhum",
+    "Preco": 19.50
+  },
+  {
+    "Codigo": "018",
+    "Nome": "Como Viver Eternamente",
+    "Preco": 19.00
+  },
+  {
+    "Codigo": "019",
+    "Nome": "Inverno na Manha - Uma Jovem no Gueto de Varsovia",
+    "Preco": 69.90
+  },
+  {
+    "Codigo": "020",
+    "Nome": "Olga",
+    "Preco": 6.99
+  },
+  {
+    "Codigo": "021",
+    "Nome": "O Menino do Pijama Listrado",
+    "Preco": 26.93
+  },
+  {
+    "Codigo": "022",
+    "Nome": "1984",
+    "Preco": 40.99
+  },
+  {
+    "Codigo": "023",
+    "Nome": "A Revolução dos Bichos: Um conto de fadas",
+    "Preco": 25.94
+  },
+  {
+    "Codigo": "024",
+    "Nome": "Admirável Mundo Novo",
+    "Preco": 30.99
+  },
+  {
+    "Codigo": "025",
+    "Nome": "O Mundo de Sofia",
+    "Preco": 43.89
+  },
+  {
+    "Codigo": "026",
+    "Nome": "Crime e Castigo",
+    "Preco": 37.42
+  },
+  {
+    "Codigo": "027",
+    "Nome": "Sapiens: Uma Breve História da Humanidade",
+    "Preco": 24.90
+  },
+  {
+    "Codigo": "028",
+    "Nome": "O Hobbit",
+    "Preco": 36.90
+  }
+
+]
